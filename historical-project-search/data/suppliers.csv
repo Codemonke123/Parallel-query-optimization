@@ -1,0 +1,6 @@
+supplier_id,supplier_name,industry,capability,location
+S001,ABC Industries,Automotive,CNC,Pune
+S002,XYZ Manufacturing,Manufacturing,Welding,Mumbai
+S003,PQR Engineering,Automotive,CNC,Nagpur
+S004,LMN Industries,Manufacturing,CNC,Gujarat
+S005,Global Technologies,Automotive,Welding,Pune

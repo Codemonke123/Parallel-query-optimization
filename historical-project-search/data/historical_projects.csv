@@ -1,0 +1,12 @@
+project_id,industry,capability,location
+P001,Automotive,CNC,Pune
+P002,Automotive,CNC,Nagpur
+P003,Manufacturing,Welding,Mumbai
+P004,Automotive,Welding,Pune
+P005,Manufacturing,CNC,Gujarat
+P006,Automotive,CNC,Mumbai
+P007,Manufacturing,Welding,Pune
+P008,Automotive,Welding,Nagpur
+P009,Manufacturing,CNC,Mumbai
+P010,Automotive,CNC,Pune
+
